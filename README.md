@@ -402,3 +402,58 @@ Interpretador:
 
 Linguagem de Máquina:
 
+
+## Exemplos Adicionados
+
+| Nome do Exemplo           | Link                               |
+|---------------------------|------------------------------------|
+| 041                       | [Acessar Código](./code-atividades/041.py) |
+| Calcarea                  | [Acessar Código](./code-atividades/calcArea.py) |
+| Ex001                     | [Acessar Código](./code-atividades/ex001.py) |
+| Ex002                     | [Acessar Código](./code-atividades/ex002.py) |
+| Ex003                     | [Acessar Código](./code-atividades/ex003.py) |
+| Ex004                     | [Acessar Código](./code-atividades/ex004.py) |
+| Ex005                     | [Acessar Código](./code-atividades/ex005.py) |
+| Ex006                     | [Acessar Código](./code-atividades/ex006.py) |
+| Ex007                     | [Acessar Código](./code-atividades/ex007.py) |
+| Ex008                     | [Acessar Código](./code-atividades/ex008.py) |
+| Ex009                     | [Acessar Código](./code-atividades/ex009.py) |
+| Ex010                     | [Acessar Código](./code-atividades/ex010.py) |
+| Ex011                     | [Acessar Código](./code-atividades/ex011.py) |
+| Ex012                     | [Acessar Código](./code-atividades/ex012.py) |
+| Ex013                     | [Acessar Código](./code-atividades/ex013.py) |
+| Ex014                     | [Acessar Código](./code-atividades/ex014.py) |
+| Ex015                     | [Acessar Código](./code-atividades/ex015.py) |
+| Ex016                     | [Acessar Código](./code-atividades/ex016.py) |
+| Ex017                     | [Acessar Código](./code-atividades/ex017.py) |
+| Ex018                     | [Acessar Código](./code-atividades/ex018.py) |
+| Ex019                     | [Acessar Código](./code-atividades/ex019.py) |
+| Ex039                     | [Acessar Código](./code-atividades/ex039.py) |
+| Ex040                     | [Acessar Código](./code-atividades/ex040.py) |
+| Ex042                     | [Acessar Código](./code-atividades/ex042.py) |
+| Ex043                     | [Acessar Código](./code-atividades/ex043.py) |
+| Ex044                     | [Acessar Código](./code-atividades/ex044.py) |
+| Ex045                     | [Acessar Código](./code-atividades/ex045.py) |
+| Ex20                      | [Acessar Código](./code-atividades/ex20.py) |
+| Ex21                      | [Acessar Código](./code-atividades/ex21.py) |
+| Ex22                      | [Acessar Código](./code-atividades/ex22.py) |
+| Ex23                      | [Acessar Código](./code-atividades/ex23.py) |
+| Ex24                      | [Acessar Código](./code-atividades/ex24.py) |
+| Ex25                      | [Acessar Código](./code-atividades/ex25.py) |
+| Ex26                      | [Acessar Código](./code-atividades/ex26.py) |
+| Ex27                      | [Acessar Código](./code-atividades/ex27.py) |
+| Ex28                      | [Acessar Código](./code-atividades/ex28.py) |
+| Ex29                      | [Acessar Código](./code-atividades/ex29.py) |
+| Ex30                      | [Acessar Código](./code-atividades/ex30.py) |
+| Ex31                      | [Acessar Código](./code-atividades/ex31.py) |
+| Ex32                      | [Acessar Código](./code-atividades/ex32.py) |
+| Ex33                      | [Acessar Código](./code-atividades/ex33.py) |
+| Ex34                      | [Acessar Código](./code-atividades/ex34.py) |
+| Ex35                      | [Acessar Código](./code-atividades/ex35.py) |
+| Ex36                      | [Acessar Código](./code-atividades/ex36.py) |
+| Ex37                      | [Acessar Código](./code-atividades/ex37.py) |
+| Ex38                      | [Acessar Código](./code-atividades/ex38.py) |
+| Ex41                      | [Acessar Código](./code-atividades/ex41.py) |
+| Ex46                      | [Acessar Código](./code-atividades/ex46.py) |
+| Ex48                      | [Acessar Código](./code-atividades/ex48.py) |
+| Main                      | [Acessar Código](./code-atividades/main.py) |
